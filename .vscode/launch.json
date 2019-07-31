@@ -1,0 +1,79 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LambdaTest",
+            "request": "launch",
+            "mainClass": "lambdatest.LambdaTest",
+            "projectName": "java-www_fb3588e5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LambdaTest",
+            "request": "launch",
+            "mainClass": "lambda.LambdaTest",
+            "projectName": "java-www_fb3588e5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CloneTest",
+            "request": "launch",
+            "mainClass": "clonedemo.CloneTest",
+            "projectName": "java-www_fb3588e5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CloneTest",
+            "request": "launch",
+            "mainClass": "clone.CloneTest",
+            "projectName": "java-www_fb3588e5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TimerTest",
+            "request": "launch",
+            "mainClass": "timer.TimerTest",
+            "projectName": "java-www_fb3588e5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld.HelloWorld"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ManagerTest",
+            "request": "launch",
+            "mainClass": "inheritance.ManagerTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ManagerTest",
+            "request": "launch",
+            "mainClass": "inheritance.ManagerTest",
+            "projectName": "java-www_fb3588e5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InputTest",
+            "request": "launch",
+            "mainClass": "demo.InputTest",
+            "projectName": "java-www_fb3588e5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - demo",
+            "request": "launch",
+            "mainClass": "demo.demo",
+            "projectName": "java-www_fb3588e5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld.HelloWorld",
+            "projectName": "java-www_fb3588e5"
+        }
+    ]
+}
